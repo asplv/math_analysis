@@ -18,3 +18,6 @@ This repository contains practice of the essentials of mathematical analysis (ca
 4. - Deeper understanding of limit of a function;
    - practicing theorems of limits.
 
+5. - Intro to calculation of differential coefficent of a function
+   - using sympy for computing sin(x) by degree
+
