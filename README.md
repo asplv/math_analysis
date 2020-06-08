@@ -21,3 +21,9 @@ This repository contains practice of the essentials of mathematical analysis (ca
 5. - Intro to calculation of differential coefficent of a function
    - using sympy for computing sin(x) by degree
 
+6. - Calculation of differential coefficent of an implicit and parametric function;
+   - calculation of differential coefficent by taking a logarithm;
+   - optimization tasks;
+
+  
+
