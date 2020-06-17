@@ -18,12 +18,21 @@ This repository contains practice of the essentials of mathematical analysis (ca
 4. - Deeper understanding of limit of a function;
    - practicing theorems of limits.
 
-5. - Intro to calculation of differential coefficent of a function
-   - using sympy for computing sin(x) by degree
+5. - Intro to calculation of differential coefficent of a function;
+   - using sympy for computing sin(x) by degree.
 
 6. - Calculation of differential coefficent of an implicit and parametric function;
    - calculation of differential coefficent by taking a logarithm;
-   - optimization tasks;
+   - optimization tasks.
+
+7. - Derivative of a function with multiple arguments;
+   - second derivative;
+   - gradient and directional derivative;
+   - extrema exploration with Hessian matrix;
+   - approximation.
+
+8. - Extrema exploration by Lagrangian method;
+   - Newton methon within fsolve for equation systems solution.
 
   
 
