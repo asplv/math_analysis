@@ -34,5 +34,6 @@ This repository contains practice of the essentials of mathematical analysis (ca
 8. - Extrema exploration by Lagrangian method;
    - Newton methon within fsolve for equation systems solution.
 
+9. - Definite and indefinite integral
   
 
