@@ -35,5 +35,8 @@ This repository contains practice of the essentials of mathematical analysis (ca
    - Newton methon within fsolve for equation systems solution.
 
 9. - Definite and indefinite integral
+
+10. - Series. Convergance exploration
+    - Fourier and Maclaurin series
   
 
